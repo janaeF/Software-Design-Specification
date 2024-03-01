@@ -1,2 +1,2 @@
 # Software-Design-Specification
-This is my commit to gitHub
+Hello! This is my gitHub submittal with the portions that I completed for the Software Design assignment :)
